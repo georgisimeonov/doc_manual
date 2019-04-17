@@ -1,0 +1,29 @@
+<chapter>
+<title>My title goes here</title>
+
+<para>
+ Paragraph text goes here.
+</para>
+
+<section>
+ <title>A section title</title>
+
+<para>
+ More paragraph text. Some in <emphasis>italics</emphasis>.
+</para>
+</section>
+</chapter><chapter>
+<title>My title goes here</title>
+
+<para>
+ Paragraph text goes here.
+</para>
+
+<section>
+ <title>A section title</title>
+
+<para>
+ More paragraph text. Some in <emphasis>italics</emphasis>.
+</para>
+</section>
+</chapter>
